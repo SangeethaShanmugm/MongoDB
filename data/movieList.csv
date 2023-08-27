@@ -1,0 +1,9 @@
+_id,name,rating
+ObjectId(64721facf918b60a5f7e7364),RRR,8.8
+ObjectId(64721facf918b60a5f7e7365),Iron man 2,7
+ObjectId(64721facf918b60a5f7e7366),No Country for Old Men,8.1
+ObjectId(64721facf918b60a5f7e7367),Jai Bhim,8.8
+ObjectId(64721facf918b60a5f7e7368),The Avengers,8
+ObjectId(64721facf918b60a5f7e7369),Interstellar,8.6
+ObjectId(64721facf918b60a5f7e736a),Baahubali,8
+ObjectId(64721facf918b60a5f7e736b),Ratatouille,8
